@@ -8,9 +8,9 @@ Como mencionado acima, me chamo Bruno de Paula Fernandes, tenho 17 anos. Sempre 
 
 ## 📊 GitHub Stats
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-D-Fernandes&show_icons=true&theme=onedark)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-D-Fernandes&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-D-Fernandes&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-D-Fernandes&layout=compact&theme=synthwave)
 
 <br>
 
