@@ -10,7 +10,7 @@ Como mencionado acima, me chamo Bruno de Paula Fernandes, tenho 17 anos. Sempre 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bruno-D-Fernandes&show_icons=true&theme=swift" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-D-Fernandes&layout=compact&theme=swift" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-D-Fernandes&layout=compact&theme=swift"/>
 </p>
 
 <br>
