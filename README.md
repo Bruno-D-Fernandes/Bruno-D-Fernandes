@@ -6,24 +6,13 @@ Como mencionado acima, me chamo Bruno de Paula Fernandes, tenho 17 anos. Sempre 
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 Estatísticas GitHub 
 
-<div flexDireciton="row", width="100%", justifyContent="space-evenly">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bruno-D-Fernandes&show_icons=true&theme=swift" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-D-Fernandes&layout=compact&theme=swift" height="180"/>
-</div>
+</p>
 
 <br>
 
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Bruno-D-Fernandes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
+<br>
