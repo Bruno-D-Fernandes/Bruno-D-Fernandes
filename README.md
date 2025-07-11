@@ -1,16 +1,12 @@
-# Bruno de Paula Fernandes ☢🧑🏽‍🎓
+# Bruno de Paula Fernandes
 
-**`Desenvolvedor FullStack`**
+### `Desenvolvedor FullStack`
 
-Como mencionado acima, me chamo Bruno de Paula Fernandes, tenho 17 anos. Sempre gostei da área de tecnologia e, desde cedo, tive curiosidade em entender como um computador funciona. Antes mesmo de compreender isso, conheci algo ainda mais interessante: a programação. Atualmente, curso Desenvolvimento de Sistemas na Etec de Guaianazes e estudo muito por conta própria, utilizando cursos, artigos, fóruns e outros recursos gratuitos. No momento, ainda não possuo um [portifolio](/) próprio nem mesmo um [Instragram](/) dedicado, mas eventualmente terei!
+Sou um desenvolvedor apaixonado por criar soluções inovadoras e resolver problemas reais. Estou sempre em busca de aprimorar minhas habilidades e enfrentar novos desafios na área de tecnologia.
 
-<br/>
+Sinta-se à vontade para explorar meus repositórios. Os projetos mais relevantes estão fixados abaixo para destaque!
 
-## 📊 Estatísticas GitHub 
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bruno-D-Fernandes&show_icons=true&theme=swift" height="200"/>
-<br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-D-Fernandes&layout=compact&theme=swift"/>
-</p>
-<br>
+- 🔗 **LinkedIn:** [Bruno de Paula Fernandes](https://www.linkedin.com/in/brunodfernandes)
+- 📂 **GitHub:** [@Bruno-D-Fernandes](https://github.com/Bruno-D-Fernandes)
