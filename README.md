@@ -1,6 +1,6 @@
 # Bruno de Paula Fernandes
 
-### `Desenvolvedor FullStack`
+### `Desenvolvedor Back-end`
 
 Desenvolvedor nodejs com react/native.
 
