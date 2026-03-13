@@ -2,8 +2,6 @@
 
 ### `Desenvolvedor Back-end`
 
-Desenvolvedor nodejs com react/native.
-
 Sinta-se à vontade para explorar meus repositórios.
 
 ---
