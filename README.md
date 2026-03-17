@@ -4,7 +4,7 @@
 
 Sinta-se à vontade para explorar meus repositórios.
 
-Quando não tem commit aqui, tem no leetCode, pode ver!
+Quando não tem commit aqui (as vezes não), tem no leetCode, pode ver!
 
 ---
 
