@@ -4,7 +4,7 @@
 
 Sinta-se à vontade para explorar meus repositórios.
 
-Quando não tem commit aqui (as vezes não), tem no leetCode, pode ver!
+Você pode acompanhar meu progresso não só pelo git, mas também por estes:
 
 ---
 
