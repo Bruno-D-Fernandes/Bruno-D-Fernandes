@@ -12,4 +12,4 @@ Você pode acompanhar meu progresso não só pelo git, mas também por estes:
 - 🔗 **LeetCode:** [LeetCode](https://leetcode.com/u/bruno-d-fernandes)
 - 🔗 **RoadMap:** [Java](https://roadmap.sh/java?s=6875902f7bd19b70d08f0cef)
 
-![Sua contagem de visitas](https://glitch.me{Bruno-D-Fernandes}/count.svg)
+![Visualizações](https://komarev.com/ghpvc/?username=Bruno-D-Fernandes&color=green&style=flat-square)
